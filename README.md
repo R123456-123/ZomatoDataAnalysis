@@ -12,7 +12,7 @@ The analysis was performed using the following Python libraries:
 - **NumPy** – for numerical computations  
 - **Pandas** – for data manipulation and analysis  
 - **Matplotlib** – for creating static visualizations  
-- **Seaborn** – for statistical data visualization  
+- **Seaborn** – for statistical data visualization's  
 
 ---
 
